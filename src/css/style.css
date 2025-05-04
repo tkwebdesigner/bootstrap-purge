@@ -1,0 +1,15 @@
+/* Import Bootstrap CSS */
+@import "../../node_modules/bootstrap/dist/css/bootstrap.css";
+
+/* Your custom styles */
+body {
+  font-family: 'Poppins', Arial, sans-serif;
+}
+h1{
+    font-size: 36px;
+    font-weight: 600;
+}
+.faq{
+    font-size: 20px;
+    font-weight: 500;
+}
